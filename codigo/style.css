@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #000000;
+    background: #0f16d2;
     font-family: Arial, sans-serif;
   }
   
   .calculator {
-    background: #313131;
+    background: #a7389c;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(33, 32, 32, 0.5);
@@ -23,7 +23,7 @@ body {
     padding: 15px;
     border: none;
     border-radius: 10px;
-    background: #575454;
+    background: #c37cb6;
     color: #fff;
   }
   
@@ -39,7 +39,7 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    background: #555;
+    background: #e76565;
     color: white;
     transition: background 0.2s;
   }
